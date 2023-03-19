@@ -1,4 +1,7 @@
 #!/bin/bash
+# www.radaco.net By E.Rahmatian		email:e.rahmatian@gmail.com
+
+
 
 BLUE='\033034'
 NC='\033[0m'
