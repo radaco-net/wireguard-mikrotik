@@ -1,5 +1,5 @@
 #!/bin/bash
-# www.radaco.net By E.Rahmatian		email:e.rahmatian@gmail.com
+# www.radaco.net By E.Rahmatian		email:e.rahmatian@gmail.com  Thanks also to IgorKha
 
 
 
