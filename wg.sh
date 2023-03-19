@@ -167,12 +167,8 @@ function serverName() {
 
 function installQuestions() {
 	echo "Welcome to WireGuard-MikroTik configurator!"
-	echo "The git repository is available at: https://github.com/IgorKha/wireguard-mikrotik"
-	echo ""
-	echo "I need to ask you a few questions before starting the setup."
-	echo "You can leave the default options and just press enter if you are ok with them."
-	echo ""
-
+	echo "The git repository is available at: https://github.com/radaco-net/wireguard-mikrotik"
+	
 	# Detect public IPv4 or IPv6 address and pre-fill for the user
     SERVER_PUB_IP=$(dig +short myip.opendns.com @resolver1.opendns.com)
     if [[ -z ${SERVER_PUB_IP} ]]; then
