@@ -124,7 +124,7 @@ source wireguard/router.conf
 ################# TESTING THE CONNECTION #############
 echo Checking the connection to router
 
-shpass -p $password ssh -o ConnectTimeout=10 -o StrictHostKeyChecking=no $username@$server "int pr"
+sshpass -p $password ssh -o ConnectTimeout=10 -o StrictHostKeyChecking=no $username@$server "int pr"
 #sshpass -p $password ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no $username@$server "int pr"
 
 
