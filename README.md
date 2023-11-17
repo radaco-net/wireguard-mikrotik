@@ -10,8 +10,9 @@ if you have mikrotik Router os version 7 or above, you can use wireguard protoco
 this will generate config file and QR code for wireguard client automatically and will config your router as well, 
 it is open source, you can check the script 
 
-Persian Lang:
-برای ساخت کیوار کد جدید برای کابران وایرگارد و اضافه کردن اتوماتیک به روتر از این اسکریپت رایگان استفاده کنید
+<h1>Persian Lang:</h1>
+برای ساخت کیوار کد جدید برای کابران وایرگارد و اضافه کردن اتوماتیک به روتر از این اسکریپت رایگان استفاده کنید. 
+اگر مایل به استفاده از تسخه حرفه ای تحت وب با قابلیت اکانتینگ وایرگارد هستین در تلگرام پیام بزارید .
 
 #####
 کارتون راه افتاد امتیاز بده گیر کردی تو تلگرام پیام بده ای دی من https://t.me/e_rahmatian
